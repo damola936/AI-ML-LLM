@@ -1,6 +1,3 @@
-Here's a more polished and professional-looking `README.md` for your **AI-ML-LLM** repository that adds structure, clarity, and a friendly tone — while also encouraging collaboration:
-
----
 
 ```markdown
 # 🤖 AI-ML-LLM
