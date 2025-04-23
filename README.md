@@ -59,7 +59,3 @@ Feel free to reach out via GitHub Issues or open a discussion!
 
 > "Learning is best when shared." Thanks for stopping by!
 ```
-
----
-
-Let me know if you want this tailored for specific projects, add badges (like Python version or license), or automatically generate TOCs.
