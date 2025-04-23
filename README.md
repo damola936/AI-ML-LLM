@@ -1,5 +1,4 @@
-
-```markdown
+```
 # 🤖 AI-ML-LLM
 
 Welcome to my personal collection of **AI**, **Machine Learning**, and **Large Language Model (LLM)** projects!
